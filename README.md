@@ -1,1 +1,1 @@
-# Quiz-Game-Judge-the-movie-by-its-cover-
+# Quiz-Game
